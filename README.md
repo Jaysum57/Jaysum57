@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Jaysum57
-- 👀 I’m interested in making a mobile app that can help me in most stuff.
+
+
+# A beginner programmer from the Philippines~! 👋
+- 👀 I’m interested in playing Rhythm games like osu!
 - 🌱 I’m currently learning C, HTML, CSS, & JavaScript
 - 💞️ I’m looking to collaborate on beginner programmers
 - 📫 You can reach me at mainjudejoseph@gmail.com 
