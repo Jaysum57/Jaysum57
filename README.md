@@ -10,35 +10,9 @@
 ### <b><samp>Hey there, I'm Jude 👋</samp></b>
 <samp>I'm a Computer Science student at Silliman University, Philippines.</samp><br>
 
-##
-<!-- I enjoy coding, customizing my workflow, and experimenting with new technologies. <br> 
-I build projects to learn, solve problems, and share knowledge with the community. <br>-->
-<b><samp>Languages</samp></b>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,js,java,powershell" height="27" alt="languages" />
-</div>
-
-##
-<b><samp>Frontend & Backend</samp></b>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,md" height="27" alt="frontend" />
-  <img src="https://skillicons.dev/icons?i=php,postman,git,docker" height="27" alt="backend & devops" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo" />
-  <img width="6" />
-</div>
-
-##
-<b><samp>Tools & OS</samp></b>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,neovim" height="27" alt="editors" />
-  <img src="https://skillicons.dev/icons?i=windows,linux" height="27" alt="os" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="27" alt="ubuntu logo" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="27" alt="anaconda logo" />
-  <img width="6" />
-</div>
-
-##
+| Languages | Frontend & Backend | Tools & OS |
+|:---------:|:------------------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=c,py,js,java,powershell,lua,rust,go" height="27" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,md" height="27" alt="frontend" /> <img src="https://skillicons.dev/icons?i=php,postman,git,docker" height="27" alt="backend & devops" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo" /> <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo" /> | <img src="https://skillicons.dev/icons?i=vscode,vim,neovim" height="27" alt="editors" /> <img src="https://skillicons.dev/icons?i=windows,linux" height="27" alt="os" /> <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="27" alt="ubuntu logo" /> <img src="https://cdn.simpleicons.org/anaconda/44A833" height="27" alt="anaconda logo" /> |
 
 ### Connect with me 📫
 
