@@ -10,82 +10,35 @@
 ### <b><samp>Hey there, I'm Jude 👋</samp></b>
 <samp>I'm a Computer Science student at Silliman University, Philippines.</samp><br>
 
+##
 <!-- I enjoy coding, customizing my workflow, and experimenting with new technologies. <br> 
 I build projects to learn, solve problems, and share knowledge with the community. <br>-->
-
 <b><samp>Languages</samp></b>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="27" alt="c logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="27" alt="python logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="27" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=java" height="27" alt="java logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="27" alt="powershell logo"  />
+  <img src="https://skillicons.dev/icons?i=c,py,js,java,powershell" height="27" alt="languages" />
 </div>
 
-<b><samp>DevOps</samp></b>
-
+##
+<b><samp>Frontend & Backend</samp></b>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="27" alt="git logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=docker" height="27" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,md" height="27" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=php,postman,git,docker" height="27" alt="backend & devops" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo" />
   <img width="6" />
 </div>
 
-<b><samp>Frontend</samp></b>
-
+##
+<b><samp>Tools & OS</samp></b>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="27" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,neovim" height="27" alt="editors" />
+  <img src="https://skillicons.dev/icons?i=windows,linux" height="27" alt="os" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="27" alt="ubuntu logo" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="27" alt="anaconda logo" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="27" alt="css logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="27" alt="tailwindcss logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=react" height="27" alt="react logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=md" height="27" alt="markdown logo"  />
 </div>
 
-<b><samp>Backend</samp></b>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=php" height="27" alt="php logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postman" height="27" alt="postman logo"  />
-</div>
-
-<b><samp>Database</samp></b>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo"  />
-</div>
-
-<b><samp>Operating Systems</samp></b>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="27" alt="windows8 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=linux" height="27" alt="linux logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="27" alt="ubuntu logo"  />
-</div>
-
-<b><samp>IDE</samp></b>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="27" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vim" height="27" alt="vim logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="27" alt="neovim logo"  />
-  <img width="6" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="27" alt="anaconda logo"  />
-</div>
-
+##
 
 ### Connect with me 📫
 
