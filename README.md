@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/Jaysum57/dotfiles/main/assets/icons/Silliman_university_logo.png" width="25" height="25" alt="Silliman University Logo">
 </div> -->
 
-<img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-white.gif?raw=true#gh-dark-mode-only" height="100">
-<img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-black.gif?raw=true#gh-light-mode-only" height="100">
+<img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-white.gif?raw=true#gh-dark-mode-only" height="60">
+<img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-black.gif?raw=true#gh-light-mode-only" height="60">
 
 ### <b><samp>Hey there, I'm Jude 👋</samp></b>
 <samp>I'm a Computer Science student at Silliman University, Philippines.</samp><br>
