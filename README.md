@@ -9,11 +9,11 @@
 
 ### <b><samp>Hey there, I'm Jude 👋</samp></b>
 <samp>I'm a Computer Science student at Silliman University, Philippines.</samp><br>
-
+<!--
 | Languages | Frontend & Backend | Tools & OS |
 |:---------:|:------------------:|:---------:|
 | <img src="https://skillicons.dev/icons?i=c,py,js,java,powershell,lua,rust,go" height="27" alt="languages" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,md" height="27" alt="frontend" /> <img src="https://skillicons.dev/icons?i=php,postman,git,docker" height="27" alt="backend & devops" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="27" alt="fastapi logo" /> <img src="https://skillicons.dev/icons?i=supabase" height="27" alt="supabase logo" /> | <img src="https://skillicons.dev/icons?i=vscode,vim,neovim" height="27" alt="editors" /> <img src="https://skillicons.dev/icons?i=windows,linux" height="27" alt="os" /> <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="27" alt="ubuntu logo" /> <img src="https://cdn.simpleicons.org/anaconda/44A833" height="27" alt="anaconda logo" /> |
-
+-->
 ### Connect with me 📫
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judeagustino/) 
