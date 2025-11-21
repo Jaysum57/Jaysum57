@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jay.agust/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mainjudejoseph@gmail.com)
 <div align="left">
-  <img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/ascii-creation-of-adam.gif?raw=true" width="100%">
+  <img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/ascii-creation-of-adam.gif?raw=true" height="200">
 </div>
 
 
