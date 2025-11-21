@@ -3,9 +3,9 @@
   <img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/ascii-creation-of-adam.gif?raw=true" height="20%">
   <img src="https://raw.githubusercontent.com/Jaysum57/dotfiles/main/assets/icons/Silliman_university_logo.png" width="25" height="25" alt="Silliman University Logo">
 </div> -->
-
 <img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-white.gif?raw=true#gh-dark-mode-only" height="60">
 <img src="https://github.com/Jaysum57/dotfiles/blob/main/assets/signatures/win-Jaysum57-black.gif?raw=true#gh-light-mode-only" height="60">
+<img align="right" src="https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000000/common/f1/2025/mclaren/2025mclarencarright.webp" width="490" />
 
 ### <b><samp>Hey there, I'm Jude 👋</samp></b>
 <samp>I'm a Computer Science student at Silliman University, Philippines.</samp><br>
